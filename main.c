@@ -27,7 +27,9 @@ int main(){
 
 }
 	
-
+void sub4(){
+	printf("I am doing work for Open Source Software\n");
+}
 
 
 
