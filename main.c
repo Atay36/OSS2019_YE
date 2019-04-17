@@ -3,7 +3,10 @@
 
 void sub1();
 
-void sub2();
+void sub2()
+{
+  printf("Hello, my name is Eunjun\n");
+}
 
 void sub3();
 
